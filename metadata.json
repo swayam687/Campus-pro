@@ -1,0 +1,8 @@
+{
+  "name": "CampusFlow - College Schedule, Habit & Micro-Review Hub",
+  "description": "An offline-first student daily companion with 10-min workout tracker, daily time-blocking schedule, smart bag packing checklist, instant post-class review logger, and homework deadline manager with 3D study visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
